@@ -6,13 +6,13 @@ criaCartao(
 
 criaCartao(
     'Conhecimentos Gerais',
-    'Qual é o animal terrestre mais rápido ',
+    'Qual é o animal terrestre mais rápido?',
     'O Guepardo'
 )
 
 criaCartao(
     'Conhecimentos Gerais ',
-    'Qual a capital do Japão',
+    'Qual a capital do Japão?',
     'Tóquio'
 )
 
