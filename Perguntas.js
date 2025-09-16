@@ -55,5 +55,5 @@ criaCartao(
 criaCartao(
     'Conhecimentos Gerais',
     'Onde fica a GRande Barreira de Coral?',
-    'NA costa da Austrália'
+    'Na costa da Austrália'
 )
