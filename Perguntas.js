@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'Conhecimentos Gerais ',
-    'Quem pitou a mona lisa?',
+    'Quem pintou a monalisa?',
     'Leonardo da Vinci'
 )
 
