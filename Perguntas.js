@@ -1,6 +1,6 @@
 criaCartao(
     'Conhecimentos Gerais ',
-    'Qual é o maioir planeta do nosso sitema solar?',
+    'Qual é o maior planeta do nosso sitema solar?',
     'Jupiter'
 )
 
@@ -30,13 +30,13 @@ criaCartao(
 
 criaCartao(
     'Conhecimentos Gerais',
-    'Qual é i elemento  químico mais abundante no universo? ',
+    'Qual é o elemento químico mais abundante no universo? ',
     'Hidrogênio'
 )
 
 criaCartao(
     'Conhecimentos Gerais ',
-    'Qual é oceano mais porfundo da Terra?',
+    'Qual é o oceano mais profundo da Terra?',
     'Oceano Pacífico'
 )
 
@@ -54,6 +54,6 @@ criaCartao(
 
 criaCartao(
     'Conhecimentos Gerais',
-    'Onde fica a GRande Barreira de Coral?',
+    'Onde fica a Grande Barreira de Coral?',
     'Na costa da Austrália'
 )
